@@ -1,0 +1,15 @@
+.info-box {
+    align-items: center;
+}
+.info-heading{
+    text-align: center;
+}
+.infobox-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+}
+
+
